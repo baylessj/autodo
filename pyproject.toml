@@ -7,7 +7,7 @@ authors = ["Jonathan Bayless <baylessjonathan@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 django-heroku = "^0.3.1"
-gunicorn = "^20.0.4"
+gunicorn = "^22.0.0"
 Django = "^3.2.23"
 requests = "^2.31.0"
 Pillow = "^10.0.1"
